@@ -1,0 +1,74 @@
+[
+    {
+        "Cid": "cbt01",
+        "name": "karthik",
+        "age": "25",
+        "email": "kka24@gmail.com",
+        "contact": "9876543210",
+        "alternativeNumber": "9874563210",
+        "panNumber": "qwert9874f"
+    },
+    {
+        "Cid": "cbt02",
+        "name": "kishore",
+        "age": "29",
+        "email": "kishore352@gmail.com",
+        "contact": "9874563210",
+        "alternativeNumber": "7896541230",
+        "panNumber": "qwert9874d"
+    },
+    {
+        "Cid": "cbt01",
+        "name": 0,
+        "age": 0,
+        "email": 0,
+        "contact": 1,
+        "alternativeNumber": 1,
+        "panNumber": 0
+    },
+    {
+        "Cid": "cbt001",
+        "name": false,
+        "age": 87,
+        "email": false,
+        "contact": 1,
+        "alternativeNumber": 1,
+        "panNumber": 0
+    },
+    {
+        "Cid": "cbt002",
+        "name": 1,
+        "age": 28,
+        "email": 0,
+        "contact": 1,
+        "alternativeNumber": 1,
+        "panNumber": 0
+    },
+    {
+        "Cid": "cbt04",
+        "name": 1,
+        "age": 26,
+        "email": 0,
+        "contact": 1,
+        "alternativeNumber": 1,
+        "panNumber": 0
+    },
+    {
+        "cid": "CBT23",
+        "name": "madhu",
+        "age": "25",
+        "email": "mazha@gmail.com",
+        "contact": "9874563210",
+        "alternativeNumber": "7896541230",
+        "panNumber": "wertd9874s"
+    },
+    {
+        "cid": "101",
+        "name": "yuva",
+        "age": "25",
+        "email": "yuva123@gmail.com",
+        "contact": "9874563210",
+        "alternativeNumber": "1234567890",
+        "panNumber": "poiuy7896k"
+    }
+]
